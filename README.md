@@ -1,5 +1,7 @@
 # Isse playground
 
+Experiment with the [hub](https://github.com/github/hub) tool to manage github issues.
+
 Use repo:
 ```
 https://github.com/cwebber314/project_test
@@ -10,7 +12,7 @@ Create issues:
 hub issue create -a cwebber314 -l example_label -F example_issue.txt
 ```
 
-## Making lots of issues
+## Create issues from a spreadsheet
 
 First create the issue text files:
 ```
